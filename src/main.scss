@@ -1,0 +1,7 @@
+$base-color: red;
+
+body {
+    background-color: $base-color;
+    transition: all .5s;
+    font-size: responsive;
+}
